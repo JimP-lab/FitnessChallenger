@@ -1,6 +1,6 @@
-This is Fitness challenger app 
-which allows users to add their Fintess Challenge. 
-This app was created By using html css and javascipt.
+ Fitness challenger is an app
+that allows users to add their Fintess Challenge. 
+This app was created By using html css javascipt,and prompt engineering.
 This app was hosted by using tiiny.host.
 And it was converted by a web app into a mobile app using
 webintoapp.com in 2 minutes.
